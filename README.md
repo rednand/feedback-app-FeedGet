@@ -2,7 +2,7 @@
 ## Projeto desenvolvido durante Next Level Week Impulse (2022) da Rocketseat
 
 ### Tela principal do front:
-![image](https://user-images.githubusercontent.com/63618987/167852348-f3d2a650-b906-4ed3-8106-39f1a5f13b1b.png)
+![image](https://user-images.githubusercontent.com/63618987/167854333-09ceee8c-d78a-410b-86cb-bbd88cd60d22.png)
 
 
 ## Tecnologias Utilizadas
