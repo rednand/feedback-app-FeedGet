@@ -7,13 +7,13 @@
 
 ## Tecnologias Utilizadas
     
-#### WEB:
+#### WEB - FRONT-END:
 - React
 - Typescript
 - Tailwindcss 
 - Vite 
 
-#### SERVER:
+#### SERVER - BACK-END:
 - Node
 - Prisma 
 - Typescript 
